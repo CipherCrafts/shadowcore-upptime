@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-22": 153,
+      "2026-04-23": 156,
+      "2026-04-22": 1440,
       "2026-04-21": 880
     }
   },
@@ -37,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-22": 153,
+      "2026-04-23": 156,
+      "2026-04-22": 1440,
       "2026-04-21": 880
     }
   },
@@ -47,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.shadowcoresmp.nl.ico",
     "slug": "upptime-site",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-22": 153,
+      "2026-04-23": 156,
+      "2026-04-22": 1440,
       "2026-04-21": 880
     }
   }
